@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35ddc417-6ddf-49b9-a986-f4d73c96760e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ftestweb/src/components/ButtOn.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ftestweb/src/components/SSHChannel.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ftestweb/src/components/ServerEdit.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ftestweb/src/components/Serverdetails.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ftestweb/src/components/UserLogin.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ftestweb/src/router/http.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ftestweb/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ftestweb/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ftestweb/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ftestweb/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ftestweb/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ftestweb/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ftestweb/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ftestweb/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/ftestweb/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ftestweb/vue.config.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ftest" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ftestweb" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ftestweb/src/router/index.js" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ftestweb/src/components/Serverdetails.vue" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ftest.conf" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ftestweb/src/components/ServerCreate.vue" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ftestweb/src/server/IndexLayout.vue" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ftestweb/src/router/http.js" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2NaRaEEe54Hu2jDt2rcaH3kqm7S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="ts.external.directory.path" value="E:\windows\Pycharm\app\PyCharm 2019.3.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\51761\Desktop\ftest\ftestweb\src\components" />
+      <recent name="C:\Users\51761\Desktop\ftest\ftestweb\src\server" />
+      <recent name="C:\Users\51761\Desktop\ftest\ftestweb\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django server.ftest">
+    <configuration name="get_node" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ftest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/server/other" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server/other/get_node.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ftest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ftest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/server" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server/models.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ftest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/server" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server/tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ftest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/appdeploy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/appdeploy/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ftest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/server" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ftest" type="Python.DjangoServer" factoryName="Django server">
+      <module name="ftest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="ftest.settings" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Administrator\AppData\Local\Programs\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views (1)" />
+        <item itemvalue="Python.views" />
+        <item itemvalue="Python.tests" />
+        <item itemvalue="Python.manage" />
+        <item itemvalue="Python.models" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35ddc417-6ddf-49b9-a986-f4d73c96760e" name="Default Changelist" comment="" />
+      <created>1679900267312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679900267312</updated>
+      <workItem from="1679900268990" duration="7217000" />
+      <workItem from="1679967940731" duration="25439000" />
+      <workItem from="1680008044894" duration="386000" />
+      <workItem from="1680071417416" duration="11639000" />
+      <workItem from="1680083127022" duration="1174000" />
+      <workItem from="1680090886928" duration="10011000" />
+      <workItem from="1680138740722" duration="816000" />
+      <workItem from="1680151575763" duration="18161000" />
+      <workItem from="1680181990613" duration="8044000" />
+      <workItem from="1680225326875" duration="18994000" />
+      <workItem from="1680266735920" duration="34230000" />
+      <workItem from="1680329562769" duration="1493000" />
+      <workItem from="1680345042314" duration="37746000" />
+      <workItem from="1680449742102" duration="2173000" />
+      <workItem from="1680485160668" duration="3745000" />
+      <workItem from="1680490912705" duration="17964000" />
+      <workItem from="1680523961776" duration="752000" />
+      <workItem from="1680524733261" duration="118000" />
+      <workItem from="1680524859912" duration="1033000" />
+      <workItem from="1680526059435" duration="11392000" />
+      <workItem from="1680571113716" duration="20637000" />
+      <workItem from="1680744400877" duration="15944000" />
+      <workItem from="1680830056378" duration="14169000" />
+      <workItem from="1680859783532" duration="1603000" />
+      <workItem from="1681118588977" duration="1538000" />
+      <workItem from="1681195390217" duration="811000" />
+      <workItem from="1681694333583" duration="14405000" />
+      <workItem from="1681741012678" duration="6561000" />
+      <workItem from="1681780732664" duration="8487000" />
+      <workItem from="1681789634086" duration="1241000" />
+      <workItem from="1681790900541" duration="3707000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="633" y="328" key="#Log_Highlighting_(ideolog)" timestamp="1680083204354">
+      <screen x="0" y="0" width="2080" height="1339" />
+    </state>
+    <state x="633" y="328" key="#Log_Highlighting_(ideolog)/0.0.2080.1339@0.0.2080.1339" timestamp="1680083204354" />
+    <state x="653" y="179" width="1092" height="725" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1680525217580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="653" y="179" width="1092" height="725" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1680525217580" />
+    <state x="732" y="415" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1681789092671">
+      <screen x="0" y="0" width="2080" height="1339" />
+    </state>
+    <state x="676" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1680531573019" />
+    <state x="732" y="415" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2080.1339@0.0.2080.1339" timestamp="1681789092671" />
+    <state x="907" y="129" key="#ftest" timestamp="1681741147063">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="907" y="129" key="#ftest/0.0.1920.1040@0.0.1920.1040" timestamp="1681741147063" />
+    <state x="751" y="342" key="#views_(1)" timestamp="1680575671208">
+      <screen x="0" y="0" width="2080" height="1339" />
+    </state>
+    <state x="751" y="342" key="#views_(1)/0.0.2080.1339@0.0.2080.1339" timestamp="1680575671208" />
+    <state x="201" y="117" key="DiffContextDialog" timestamp="1680268813751">
+      <screen x="0" y="0" width="2080" height="1339" />
+    </state>
+    <state x="201" y="117" key="DiffContextDialog/0.0.2080.1339@0.0.2080.1339" timestamp="1680268813751" />
+    <state x="933" y="285" key="EnvironmentVariablesDialog" timestamp="1680524945523">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="933" y="285" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1680524945523" />
+    <state x="1514" y="651" key="FileChooserDialogImpl" timestamp="1681789149209">
+      <screen x="0" y="0" width="2080" height="1339" />
+    </state>
+    <state x="1398" y="506" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1680525165068" />
+    <state x="1514" y="651" key="FileChooserDialogImpl/0.0.2080.1339@0.0.2080.1339" timestamp="1681789149209" />
+    <state width="1877" height="310" key="GridCell.Tab.0.bottom" timestamp="1681747577875">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="310" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1681747577875" />
+    <state width="2037" height="356" key="GridCell.Tab.0.bottom/0.0.2080.1339@0.0.2080.1339" timestamp="1680575744790" />
+    <state width="1877" height="310" key="GridCell.Tab.0.center" timestamp="1681747577875">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="310" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1681747577875" />
+    <state width="2037" height="356" key="GridCell.Tab.0.center/0.0.2080.1339@0.0.2080.1339" timestamp="1680575744790" />
+    <state width="1877" height="310" key="GridCell.Tab.0.left" timestamp="1681747577875">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="310" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1681747577875" />
+    <state width="2037" height="356" key="GridCell.Tab.0.left/0.0.2080.1339@0.0.2080.1339" timestamp="1680575744789" />
+    <state width="1877" height="310" key="GridCell.Tab.0.right" timestamp="1681747577875">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="310" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1681747577875" />
+    <state width="2037" height="356" key="GridCell.Tab.0.right/0.0.2080.1339@0.0.2080.1339" timestamp="1680575744790" />
+    <state width="2022" height="661" key="GridCell.Tab.1.bottom" timestamp="1680373446119">
+      <screen x="0" y="0" width="2080" height="1339" />
+    </state>
+    <state width="2022" height="661" key="GridCell.Tab.1.bottom/0.0.2080.1339@0.0.2080.1339" timestamp="1680373446119" />
+    <state width="2022" height="661" key="GridCell.Tab.1.center" timestamp="1680373446119">
+      <screen x="0" y="0" width="2080" height="1339" />
+    </state>
+    <state width="2022" height="661" key="GridCell.Tab.1.center/0.0.2080.1339@0.0.2080.1339" timestamp="1680373446119" />
+    <state width="2022" height="661" key="GridCell.Tab.1.left" timestamp="1680373446119">
+      <screen x="0" y="0" width="2080" height="1339" />
+    </state>
+    <state width="2022" height="661" key="GridCell.Tab.1.left/0.0.2080.1339@0.0.2080.1339" timestamp="1680373446119" />
+    <state width="2022" height="661" key="GridCell.Tab.1.right" timestamp="1680373446119">
+      <screen x="0" y="0" width="2080" height="1339" />
+    </state>
+    <state width="2022" height="661" key="GridCell.Tab.1.right/0.0.2080.1339@0.0.2080.1339" timestamp="1680373446119" />
+    <state x="845" y="392" key="RollbackChangesDialog" timestamp="1680268817330">
+      <screen x="0" y="0" width="2080" height="1339" />
+    </state>
+    <state x="845" y="392" key="RollbackChangesDialog/0.0.2080.1339@0.0.2080.1339" timestamp="1680268817330" />
+    <state x="758" y="214" key="SettingsEditor" timestamp="1680575721073">
+      <screen x="0" y="0" width="2080" height="1339" />
+    </state>
+    <state x="700" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1680525171682" />
+    <state x="758" y="214" key="SettingsEditor/0.0.2080.1339@0.0.2080.1339" timestamp="1680575721073" />
+    <state x="725" y="494" key="com.intellij.ide.util.TipDialog" timestamp="1681790900705">
+      <screen x="0" y="0" width="2080" height="1339" />
+    </state>
+    <state x="669" y="384" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1680526062099" />
+    <state x="725" y="494" key="com.intellij.ide.util.TipDialog/0.0.2080.1339@0.0.2080.1339" timestamp="1681790900705" />
+    <state x="464" y="126" width="647" height="801" key="find.popup" timestamp="1681743493963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="464" y="126" width="647" height="801" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1681743493963" />
+    <state x="931" y="357" width="672" height="678" key="search.everywhere.popup" timestamp="1680767139193">
+      <screen x="0" y="0" width="2080" height="1339" />
+    </state>
+    <state x="931" y="357" width="672" height="678" key="search.everywhere.popup/0.0.2080.1339@0.0.2080.1339" timestamp="1680767139193" />
+    <state x="921" y="435" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1680524400350">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="921" y="435" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1680524400350" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ftest$views__1_.coverage" NAME="views (1) Coverage Results" MODIFIED="1680575739773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appdeploy" />
+    <SUITE FILE_PATH="coverage/ftest$read_config.coverage" NAME="read_config Coverage Results" MODIFIED="1679974433152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ftest$settings.coverage" NAME="settings Coverage Results" MODIFIED="1679976246955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ftest" />
+    <SUITE FILE_PATH="coverage/ftest$views.coverage" NAME="views Coverage Results" MODIFIED="1680373379212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/server" />
+    <SUITE FILE_PATH="coverage/ftest$tests.coverage" NAME="tests Coverage Results" MODIFIED="1680284779363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/server" />
+    <SUITE FILE_PATH="coverage/ftest$setup.coverage" NAME="setup Coverage Results" MODIFIED="1679901886553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Temp1_sample_python_59b4c17a-5a57-4e10-ab7c-8a0d964f2cd6.zip/sample_python_59b4c17a-5a57-4e10-ab7c-8a0d964f2cd6" />
+    <SUITE FILE_PATH="coverage/ftest$logserver.coverage" NAME="logserver Coverage Results" MODIFIED="1679995477196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/log" />
+    <SUITE FILE_PATH="coverage/ftest$get_node.coverage" NAME="get_node Coverage Results" MODIFIED="1680077724323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/server/other" />
+    <SUITE FILE_PATH="coverage/ftest$manage.coverage" NAME="manage Coverage Results" MODIFIED="1680091933861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ftest$models.coverage" NAME="models Coverage Results" MODIFIED="1680082862808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/server" />
+    <SUITE FILE_PATH="coverage/ftest$token_create.coverage" NAME="token_create Coverage Results" MODIFIED="1679980401836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/server/other" />
+  </component>
+</project>
